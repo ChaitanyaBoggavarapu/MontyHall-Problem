@@ -1,0 +1,3 @@
+pip install numpy
+pip install math
+pip install pyinstaller
